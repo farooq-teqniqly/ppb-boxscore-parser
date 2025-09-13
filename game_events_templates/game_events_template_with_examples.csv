@@ -1,0 +1,11 @@
+inning,half,batting_team,fielding_team,batter,pitcher,event,rbis,runs_scored,outs_on_play,errors,advances
+1,T,NYY,LAD,Torres,Yamamoto,2B,0,0,0,0,B-2
+1,T,NYY,LAD,Soto,Yamamoto,BB,1,1,0,0,R2-3;R1-2;R3-H
+1,T,NYY,LAD,Judge,Yamamoto,HR,2,2,0,0,B-H;R1-H
+1,T,NYY,LAD,Stanton,Yamamoto,G6-3,0,0,1,0,B-X1(63)
+1,T,NYY,LAD,Rizzo,Yamamoto,1B,0,0,0,0,B-1
+1,T,NYY,LAD,Volpe,Yamamoto,FC5-4,0,0,1,0,B-1;R1-X2(54)
+1,T,NYY,LAD,Wells,Yamamoto,F8,0,0,1,0,
+1,B,LAD,NYY,Betts,Cole,1B+ROE(5),0,0,0,1,B-1;B-2(E5)
+1,B,LAD,NYY,Betts,Cole,CS3-25,0,0,1,0,R2-X3(25)
+1,B,LAD,NYY,Ohtani,Cole,K,0,0,1,0,
